@@ -6,7 +6,7 @@ Interaktywny dashboard kadrowy w Excelu na podstawie danych 110 pracowników z l
 osobny eksport wynagrodzeń na każdy rok oraz niespójne nazewnictwo działów (różna wielkość liter
 w tej samej nazwie) — co wymagało konsolidacji i dopasowania przed analizą.
 
-**Zakres prac:**
+**Zakres prac**
 - oczyszczenie i dopasowanie danych w Power Query, w tym dopasowanie rozmyte (fuzzy matching)
   niespójnych nazw działów do jednej tabeli wymiarów oraz konsolidacja wynagrodzeń z 3 lat,
 - zbudowanie modelu danych w Power Pivot (relacje między pracownikami, działami, wynagrodzeniami,
