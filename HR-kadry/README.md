@@ -21,4 +21,4 @@ w tej samej nazwie) — co wymagało konsolidacji i dopasowania przed analizą.
 - oś czasu.
 
 **Podgląd:** 
-<br><img src="https://github.com/MkDevX/Excel/blob/main/HR-kadry/Dashboard%20-%20filtrowanie%20-%20HR-kadry.gif">
+<br><br><img src="https://github.com/MkDevX/Excel/blob/main/HR-kadry/Dashboard%20-%20filtrowanie%20-%20HR-kadry.gif">
