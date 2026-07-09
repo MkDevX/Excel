@@ -19,4 +19,4 @@ w tej samej nazwie) — co wymagało konsolidacji i dopasowania przed analizą.
 **Narzędzia:** Power Query, Power Pivot, DAX, tabele przestawne, wykresy przestawne, fragmentatory, oś czasu.
 
 <img src="https://raw.githubusercontent.com/MkDevX/Excel/refs/heads/main/HR-kadry/Dashboard%20-%20HR-kadry.jpg">
-<img src="https://github.com/MkDevX/sendit-project/assets/48242687/72b84be4-4eb0-4296-b0ce-d744ec61d34a" width="200" height="auto">
+<img src="https://github.com/MkDevX/Excel/blob/main/HR-kadry/Dashboard%20-%20filtrowanie%20-%20HR-kadry.gif">
