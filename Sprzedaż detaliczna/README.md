@@ -1,4 +1,4 @@
-#Projekt Excel - Sprzedaż detaliczna
+# Sprzedaż detaliczna
 Interaktywny dashboard sprzedażowy w Excelu na podstawie danych transakcyjnych z lat 2023–2025
 (ok. 1600 transakcji, dane produktowe, sprzedawcy, klienci). Dane pochodziły z osobnych rocznych
 eksportów i zawierały typowe błędy — niespójne formaty dat, duplikaty, braki w rabatach — które
