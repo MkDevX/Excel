@@ -1,5 +1,5 @@
 # HR/kadry
-Interaktywny dashboard kadrowy w Excelu na podstawie danych 110 pracowników z lat 2023–2025
+Interaktywny dashboard kadrowy w Excelu na podstawie danych 170 pracowników z lat 2023–2025
 (kartoteka osobowa, wynagrodzenia miesięczne, absencje). Dane pochodziły z osobnych źródeł —
 osobny eksport wynagrodzeń na każdy rok oraz niespójne nazewnictwo działów (różna wielkość liter
 w tej samej nazwie) — co wymagało konsolidacji i dopasowania przed analizą.
